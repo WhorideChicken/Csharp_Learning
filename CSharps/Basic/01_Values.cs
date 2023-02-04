@@ -76,8 +76,4 @@ class MainClass
     //참조형 : class, array, string
     //값형 : 내장타입(int, long, char ~), struct
 
-    static void Main(string[] args)
-    {
-        ValueChange();
-    }
 }
