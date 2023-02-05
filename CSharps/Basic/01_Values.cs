@@ -73,7 +73,7 @@ class MainClass
     //때문에 _m2 = _m1이라 했을 때 _m2에는 _m1의 본체를 가르키는 주소가 할당이 되어 값이 같이 변경 됩니다.
 
     //C#에서 값타입
-    //참조형 : class, array, string
-    //값형 : 내장타입(int, long, char ~), struct
+    //참조형 : class, array, string, 기본적으로 new()로 생성하면 참조형으로 보면 편합니다, *ValuTuple은 참조형입니다
+    //값형 : 내장타입(int, long, char ~), struct, 튜플, enum
 
 }
