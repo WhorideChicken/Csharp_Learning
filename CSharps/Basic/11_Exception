@@ -1,0 +1,24 @@
+ [Exceptoin] : try, catch 문법을 사용하여 예외(에러)가 발생하면 catch문으로 넘어가 처리하는 문법입니다.
+
+- try문 안에서 에러가 발생하면 그 시점 아래로는 실행되지 않고 catch문으로 넘어갑니다.
+- catch문 매개변수로 특정 에러에 대해 따로 처리 할 수 있습니다.
+- try/catch와 별개로 꼭 실행 되어야 하는 구분은 finally문을 만들어 해당 부분에서 처리합니다.
+
+구저
+try
+{
+    실행 내용
+}
+catch(DivideByZeroException e)
+{
+    0으로 나눗셈을 했을 때 발생하는 오류 예외처리
+}
+catch(Exceptoin e)
+{
+    모든 에러에 대해 값을 받을 수 있는 에러의 조상
+    Exceptoin 부분이 catch문들중 가장 아래로 와야한다. 
+}
+finally
+{
+    꼭 실행되어야하는 부분 코드
+}
