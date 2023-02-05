@@ -83,3 +83,17 @@ class Player
 }
 
 위와 같은 구조로 구현을하면 delegate와 달리 함수로 호출 할 수없어 위험한 호출을 막을 수 있습니다.
+
+* 델리게이 또한 제네릭하게 사용할 수 있지만 c#에서 기본적으로 제공해줍니다.
+Func이라는 키워드와 Action이라는 키워드입니다.
+Func은 return 존재하는 델리게이트를 사용할 때 활용하며
+Action은 void 함수를 위한 제네릭한 delegate입니다.
+
+
+<> 구조의 가장 마지막 인자는 reutn되는 값이며 그앞의 인자들은 매개변수입니다.
+Func<T, TResult> TestFunc;
+
+<> 구조는 매개변수들입니다.
+Action<T> TestFunc;
+
+둘다 return을 제외하고 매개변수는 최대 16개까지 가능
