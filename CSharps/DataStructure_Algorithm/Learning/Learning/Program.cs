@@ -10,6 +10,7 @@ namespace Learning
             {
                 for(int j = 0; j < 25; j++)
                     Console.Write('\u25cf');
+
                 Console.WriteLine();
             }
 
