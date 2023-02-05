@@ -41,3 +41,15 @@ obj/Debug/net5.0/Csharp_Learning.csproj.FileListAbsolute.txt
 obj/Debug/net5.0/Csharp_Learning.GeneratedMSBuildEditorConfig.editorconfig
 obj/project.assets.json
 obj/project.nuget.cache
+bin/Debug/net5.0/Csharp_Learning.deps.json
+bin/Debug/net5.0/Csharp_Learning.dll
+bin/Debug/net5.0/Csharp_Learning.exe
+bin/Debug/net5.0/Csharp_Learning.pdb
+bin/Debug/net5.0/Csharp_Learning.runtimeconfig.dev.json
+bin/Debug/net5.0/Csharp_Learning.runtimeconfig.json
+bin/Debug/net5.0/ref/Csharp_Learning.dll
+obj/Debug/net5.0/apphost.exe
+obj/Debug/net5.0/Csharp_Learning.dll
+obj/Debug/net5.0/Csharp_Learning.genruntimeconfig.cache
+obj/Debug/net5.0/Csharp_Learning.pdb
+obj/Debug/net5.0/ref/Csharp_Learning.dll

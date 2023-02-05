@@ -1,3 +1,4 @@
+using Internal;
 using System;
 
 //Static 키워드
@@ -25,5 +26,10 @@ class Guy
         Guy g = new Guy();
         g.age = 100;
         return g;
+    }
+
+    static void Main()
+    {
+        
     }
 }
