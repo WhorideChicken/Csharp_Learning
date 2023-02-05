@@ -27,3 +27,17 @@ CSharps/Basic/obj/Debug/net7.0/ref/Basic.dll
 CSharps/Basic/obj/Debug/net7.0/refint/Basic.dll
 CSharps/Basic/obj/project.assets.json
 CSharps/Basic/obj/project.nuget.cache
+Csharp_Learning.csproj
+obj/Csharp_Learning.csproj.nuget.dgspec.json
+obj/Csharp_Learning.csproj.nuget.g.props
+obj/Csharp_Learning.csproj.nuget.g.targets
+obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+obj/Debug/net5.0/Csharp_Learning.AssemblyInfo.cs
+obj/Debug/net5.0/Csharp_Learning.AssemblyInfoInputs.cache
+obj/Debug/net5.0/Csharp_Learning.assets.cache
+obj/Debug/net5.0/Csharp_Learning.csproj.AssemblyReference.cache
+obj/Debug/net5.0/Csharp_Learning.csproj.CoreCompileInputs.cache
+obj/Debug/net5.0/Csharp_Learning.csproj.FileListAbsolute.txt
+obj/Debug/net5.0/Csharp_Learning.GeneratedMSBuildEditorConfig.editorconfig
+obj/project.assets.json
+obj/project.nuget.cache
