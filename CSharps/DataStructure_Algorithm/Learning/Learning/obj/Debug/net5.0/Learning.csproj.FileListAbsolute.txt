@@ -1,0 +1,16 @@
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\bin\Debug\net5.0\Learning.exe
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\bin\Debug\net5.0\Learning.deps.json
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\bin\Debug\net5.0\Learning.runtimeconfig.json
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\bin\Debug\net5.0\Learning.runtimeconfig.dev.json
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\bin\Debug\net5.0\Learning.dll
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\bin\Debug\net5.0\ref\Learning.dll
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\bin\Debug\net5.0\Learning.pdb
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\obj\Debug\net5.0\Learning.csproj.AssemblyReference.cache
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\obj\Debug\net5.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\obj\Debug\net5.0\Learning.AssemblyInfoInputs.cache
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\obj\Debug\net5.0\Learning.AssemblyInfo.cs
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\obj\Debug\net5.0\Learning.csproj.CoreCompileInputs.cache
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\obj\Debug\net5.0\Learning.dll
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\obj\Debug\net5.0\ref\Learning.dll
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\obj\Debug\net5.0\Learning.pdb
+C:\Users\Jin\Desktop\Web_Study\Csharp_Learning\CSharps\DataStructure_Algorithm\Learning\Learning\obj\Debug\net5.0\Learning.genruntimeconfig.cache
