@@ -144,13 +144,4 @@ namespace Algorithm
             Count--;
         }
     }
-
-    class MainClass
-    {
-        public static void Main(string[] args)
-        {
-
-
-        }
-    }
 }
