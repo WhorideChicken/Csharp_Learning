@@ -15,8 +15,8 @@ namespace Algorithm
 
     class MyList<T> //List는 Generic 내부는 배열이다
     {
-        const int DEFAULT_SIZE = 1;
-        T[] _data = new T[DEFAULT_SIZE];
+        const int DEFAULTSize = 1;
+        T[] _data = new T[DEFAULTSize];
 
         public int Count = 0; //실제로 사용중인 데이터 갯수
         public int Capacity { get { return _data.Length; } }//예약된 데이터 개수
