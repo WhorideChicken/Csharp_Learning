@@ -14,6 +14,11 @@ namespace Learning
         public int Size { get; private set; }
         const char CIRCLE = '\u25cf';
 
+
+        public int DestY { get; private set; }
+        public int DestX { get; private set; }
+
+
         Player _player;
         public enum TileType
         {
@@ -31,6 +36,9 @@ namespace Learning
 
             Tile = new TileType[size, size];
             Size = size;
+
+            DestY = Size - 2;
+            DestX = Size - 2;
 
             BoardSettingSizeWinder();
 
@@ -181,8 +189,10 @@ namespace Learning
                 for (int x = 0; x < Size; x++)
                 {
                     //플레이어 좌표를 갖고 와서 그 좌표랑 현재 y,x가 일치하면 플레이어 전용 색상으로 표시
-                    if(x == _player.PosX && y == _player.PosY)
+                    if (x == _player.PosX && y == _player.PosY)
                         Console.ForegroundColor = ConsoleColor.Blue;
+                    else if (x == DestX && y == DestY)
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                     else
                         Console.ForegroundColor = GetTileColor(Tile[y, x]);
 

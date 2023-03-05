@@ -15,7 +15,7 @@ namespace Learning
             Board board = new Board();
             Player player = new Player();
             board.Initialize(25, player);
-            player.Initialize(1, 1, board.Size-2, board.Size - 2, board);
+            player.Initialize(1, 1, board);
             //커서가 안보이도록 환경 설정
             Console.CursorVisible = false;
 
